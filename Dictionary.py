@@ -8,3 +8,6 @@ dict = {
 
 
 print(dict)
+
+
+print(dict["Name"])
