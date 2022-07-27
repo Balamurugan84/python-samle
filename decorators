@@ -1,0 +1,10 @@
+def hel(text):
+    return text.upper()
+ 
+print(hel('Hello'))
+ 
+fun = hel
+ 
+print(fun('Hello'))
+
+
